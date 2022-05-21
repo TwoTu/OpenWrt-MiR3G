@@ -8,7 +8,7 @@ env:
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 16 0 * ?'
+    - cron: '0 16 1 * ?'
 
 jobs:
   check:
