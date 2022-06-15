@@ -4,9 +4,10 @@
 ⏰ **每个月2号自动拉取最新源码自动编译**
 
 <p align="center">
-  <a href="https://github.com/bigbugcc/OpenWrts">
+  <a href="https://github.com/TwoTu/OpenWrt-MiR3G/actions">
     <img src="https://cdn.jsdelivr.net/gh/bigbugcc/Resource@master/github/openwrts/action1.jpg" alt="Logo" width="500" />
   </a>
+
 
   <h3 align="center">Openwrt/LEDE 云编译</h3>
   <p align="center">
@@ -32,13 +33,15 @@
 
 **主界面：**
 
-![6](C:\Users\TwoTu\Desktop\路由刷机\6.jpg)
+![](https://img-blog.csdnimg.cn/1393d35df218470596bb2937594c03cb.jpeg)
 
 
 
 ## R3G刷机教程
 
 [https://blog.csdn.net/qq_44396242/article/details/125291819?spm=1001.2014.3001.5501](https://blog.csdn.net/qq_44396242/article/details/125291819?spm=1001.2014.3001.5501)
+
+
 
 
 
@@ -50,9 +53,11 @@
 
 
 
+
+
 ## 鸣谢大佬
 
-[<img src="https://avatars.githubusercontent.com/u/45546643?s=64&v=4" alt="@bigbugcc" style="zoom:50%;" />](https://github.com/bigbugcc)[**bigbug** ](https://github.com/bigbugcc)
+## [<img src="https://avatars.githubusercontent.com/u/45546643?s=64&v=4" alt="@bigbugcc" style="zoom: 25%;border-radius: 50%;" />](https://github.com/bigbugcc)[**bigbug** ](https://github.com/bigbugcc)
 
 
 
