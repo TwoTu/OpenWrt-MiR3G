@@ -57,7 +57,7 @@
 
 ## 鸣谢大佬
 
-## [<img src="https://avatars.githubusercontent.com/u/45546643?s=64&v=4" alt="@bigbugcc" style="zoom: 25%;border-radius: 50%;" />](https://github.com/bigbugcc)[**bigbug** ](https://github.com/bigbugcc)
+[<img src="https://avatars.githubusercontent.com/u/45546643?s=64&v=4" alt="@bigbugcc" style="zoom: 20%; border-radius: 35px;" />](https://github.com/bigbugcc)[**bigbug** ](https://github.com/bigbugcc)
 
 
 
